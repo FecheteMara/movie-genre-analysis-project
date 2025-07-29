@@ -38,7 +38,7 @@ The dataset was originally available on Kaggle (now unavailable). A local versio
 
 ## Visual Summary
 
-The full set of charts is available in the [presentation PDF](./Movie%20Genre%20Trends%20and%20Ratings%20Analysis%20.pdf).
+The full set of charts is available in the [presentation PDF](./Movie%20Genre%20Trends%20and%20Ratings%20Analysis.pdf).
 
 ## How to Run
 
